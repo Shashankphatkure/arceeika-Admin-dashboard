@@ -405,7 +405,7 @@ export default function Products() {
               sx={{ position: "relative", top: "-1px" }}
               className='mr-5px'
             />{" "}
-            Create Folder
+            Create New product
           </Button>
         </Box>
 
